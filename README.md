@@ -9,8 +9,8 @@ and make predictions for future case numbers based on current patterns.
 Operations: Collected, cleaned, and analyzed extensive COVID-19 data, employing
 statistical techniques and data visualization tools.
 <br>
-Key Achievements:
 <br>
+Key Achievements:
 <br>
 Identified infection rate trends, vaccination rates, and geographical spread
 patterns.
